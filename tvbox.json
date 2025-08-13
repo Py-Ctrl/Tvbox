@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "url": "http://饭太硬.com/tv",
+      "url": "https://www.饭太硬.com/tv",
       "name": "🍚 饭太硬"
-    },
-    {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "🍚 饭太硬备用"
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "🎩 巧技"
+    },
+    {
+      "url": "https://tv.菜妮丝.top",
+      "name": "🥬 菜妮丝"
     },
     {
       "url": "http://etaishun.com/m3u8/hzm.json",
@@ -21,12 +21,24 @@
       "name": "🦹‍♂️ 不良帅"
     },
     {
+      "url": "https://4708.kstore.space/svip/svip.json",
+      "name": "🏙 拾光线路"
+    },
+    {
       "url": "http://miqk.cc/小米/DEMO.json",
       "name": "📱 小米"
     },
     {
       "url": "http://38.165.20.168/柒豪4K.json",
       "name": "🎬 OK影视"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "🥳 聚玩线路"
+    },
+    {
+      "url": "https://pastebin.com/raw/gtbKvnE1",
+      "name": "🐉 卧龙"
     },
     {
       "url": "http://fmys.top/fmys.json",
@@ -41,12 +53,8 @@
       "name": "💥 OK吊炸天"
     },
     {
-      "url": "https://gitee.com/okjack/okk/raw/master/op.txt",
-      "name": "🔗 OK线路"
-    },
-    {
-      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-      "name": "🔄 PG线路"
+      "url": "https://raw.kkgithub.com/FongMi/CatVodSpider/main/json/config.json",
+      "name": "🎩 FongMi"
     },
     {
       "url": "http://毒盒.com/tv",
@@ -55,10 +63,6 @@
     {
       "url": "http://rihou.cc:55/天天开心",
       "name": "😊 天天开心"
-    },
-    {
-      "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "🧙‍♂️ 道长线路"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
@@ -73,16 +77,12 @@
       "name": "🐱 肥猫"
     },
     {
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "name": "😋 挺好线路"
+    },
+    {
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🐴 小马线路"
-    },
-    {
-      "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/beiyong.json",
-      "name": "🧚‍♀️ 小仙影视"
-    },
-    {
-      "url": "https://www.bestpvp.site/关注码上放生/时光机",
-      "name": "🔄 码上放生"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
@@ -97,10 +97,6 @@
       "name": "👦 王二小"
     },
     {
-      "url": "http://tvbox.王小二.top/",
-      "name": "👦 王小二"
-    },
-    {
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "😎 潇洒"
     },
@@ -110,7 +106,7 @@
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
-      "name": "🕺 俊哥"
+      "name": "🕺 俊佬线路"
     },
     {
       "url": "https://weixine.net/ysc.json",
@@ -124,6 +120,11 @@
       "url": "http://hb.小虎斑.site:25252/仅供测试",
       "name": "🐯 小虎斑"
     },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "🐯 老虎线路"
+    },
+    
     {
       "url": "https://盒子迷.top/春盈天下",
       "name": "🌿 春盈天下"
