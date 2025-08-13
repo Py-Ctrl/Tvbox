@@ -24,4 +24,4 @@
 
 ## 🌟 Star历史
 
-[![Stargazers over time](https://starchart.cc/Py-Ctrl/Tvbox.svg)](https://starchart.cc/Py-Ctrl/Tvbox.svg)
+[![Stargazers over time](https://api.star-history.com/svg?repos=Py-Ctrl/Tvbox&type=Date)](https://star-history.com/#Py-Ctrl/Tvbox&Date)
