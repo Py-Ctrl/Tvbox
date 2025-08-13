@@ -24,4 +24,4 @@
 
 ## 🌟 Star历史
 
-[![Stargazers over time](https://starchart.cc/你的用户名/你的仓库名.svg)](https://starchart.cc/你的用户名/你的仓库名)
+[![Stargazers over time](https://starchart.cc/Py-Ctrl/Tvbox.svg)](https://starchart.cc/Py-Ctrl/Tvbox.svg)
