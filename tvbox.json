@@ -20,8 +20,6 @@
     { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/T4.json", "name": "🧩 T4" },
     { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "📡 senno" },
     { "url": "http://47.96.82.41:5188/svip/svip.json", "name": "💎 软件小哥哥" },
-    { "url": "https://www.252035.xyz/z/FongMi.json", "name": "📦 真心本地包" },
-    { "url": "https://www.252035.xyz/p/jsm.json", "name": "📦 PG本地包" },
     { "url": "https://bitbucket.org/xduo/libs/raw/master/index.json", "name": "🧙 道长" },
     { "url": "https://tv.蜗牛.top/svip", "name": "🐌 蜗牛" },
     { "url": "http://zhangqun1818.serv00.net/zq/api.json", "name": "👤 张群" },
